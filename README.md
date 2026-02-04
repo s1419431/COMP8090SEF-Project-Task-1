@@ -12,8 +12,6 @@ This is a **Library Borrowing system** of COMP8090SEF course project.
 - Borrow and return books with basic validation.
 - Track active loans with due dates and overdue detection logic (in code).
 
-The system uses a console-based menu interface.
-
 ## OOP Concepts Demonstrated
 
 - **Classes and objects**: `Book`, `Member`, `Loan`, repositories, `LibraryService`, and `ConsoleUI`.
@@ -21,8 +19,6 @@ The system uses a console-based menu interface.
 - **Inheritance**: `Member` extends `Person`; both implement the `Identifiable` interface-style abstract base class.
 - **Abstraction and polymorphism**: `Identifiable` abstract base class with `get_id()` implemented differently in `Book` and `Person` subclasses.
 - **Modular design**: Multiple Python files (`models.py`, `repository.py`, `services.py`, `ui.py`, `main.py`) to separate concerns.[file:1]
-
-You should update this section to explicitly match the OOP concepts listed in your Week 3 lecture notes and explain them in your project report.[file:1]
 
 ## Project Structure
 
