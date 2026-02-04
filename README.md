@@ -1,8 +1,9 @@
 # Library Borrowing System (COMP8090SEF Task 1)
 
-This is a simple **library borrowing system** implemented in Python to fulfil the Task 1 requirements of the COMP8090SEF course project (OOP-based application development).[file:1]
-
-> Important: You must modify and extend this code to make it your own work and to cover all OOP concepts and project-specific requirements defined by HKMU.[file:1]
+This is a **Library Borrowing system** of COMP8090SEF course project.
+- Created by
+- Name: WONG Yan-ho, Michael
+- Student ID: s1419431
 
 ## Features
 
