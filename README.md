@@ -12,7 +12,7 @@ This is a **Library Borrowing system** of COMP8090SEF course project.
 - Borrow and return books with basic validation.
 - Track active loans with due dates and overdue detection logic (in code).
 
-## OOP Concepts Demonstrated
+## OOP Concepts included:
 
 - **Classes and objects**: `Book`, `Member`, `Loan`, repositories, `LibraryService`, and `ConsoleUI`.
 - **Encapsulation**: Private-like attributes (`_field`) with property accessors where appropriate.
