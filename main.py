@@ -10,10 +10,10 @@ from ui import ConsoleUI
 
 def bootstrap_sample_data(service: LibraryService):
     """Optional: add some sample books and members."""
-    service.add_book("B001", "Clean Code", "Robert C. Martin", 3)
-    service.add_book("B002", "Introduction to Algorithms", "Cormen et al.", 2)
-    service.add_member("M001", "Alice", 3)
-    service.add_member("M002", "Bob", 2)
+    service.add_book("B001", "TEST1", "Andy", 3)
+    service.add_book("B002", "TEST2", "Billy", 2)
+    service.add_member("M001", "Charlie", 3)
+    service.add_member("M002", "David", 2)
 
 
 def main():
