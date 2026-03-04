@@ -16,7 +16,7 @@ class Person(Identifiable):
     """Base class to demonstrate inheritance."""
 
     def __init__(self, person_id: str, name: str):
-        self._person_id = person_id      # encapsulation via leading underscore
+        self._person_id = person_id
         self._name = name
 
     def get_id(self) -> str:
@@ -58,7 +58,7 @@ class Member(Person):
 
     @property
     def borrowed_book_ids(self) -> List[str]:
-        # return a copy to preserve encapsulation
+        # return a copy
         return list(self._borrowed_book_ids)
 
     def __str__(self) -> str:
