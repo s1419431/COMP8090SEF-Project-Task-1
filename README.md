@@ -10,7 +10,7 @@ This is a **Library Borrowing system** of COMP8090SEF course project.
 - Manage books (add, list, availability count).
 - Manage members (add, list, borrowing limit).
 - Borrow and return books with basic validation.
-- Track active loans with due dates and overdue detection logic (in code).
+- Track active loans with due date and overdue detection logic.
 
 ## Project Structure
 
