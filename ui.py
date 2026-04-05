@@ -28,7 +28,7 @@ class ConsoleUI:
                 elif choice == "7":
                     self._handle_list_loans()
                 elif choice.lower() == "q":
-                    print("Goodbye.")
+                    print("Exit.")
                     break
                 else:
                     print("Invalid choice.")
