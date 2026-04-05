@@ -23,6 +23,4 @@ This is a **Library Borrowing system** of COMP8090SEF course project.
 ├── ui.py            # Console UI
 └── README.md
 
-## Video Presentation
-
-- https://mailouhkedu-my.sharepoint.com/:v:/g/personal/s1419431_live_hkmu_edu_hk/IQB0gcsvx_ZTR7kmJKwUs0u9ATPZw4VsgyMLE9pYAfIEJRI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n5nrmt
+## Test
