@@ -1,6 +1,6 @@
 # Library Borrowing System (COMP8090SEF Task 1)
 
-This is a **Library Borrowing system** of COMP8090SEF course project Task 1.
+This is a **COMP8090SEF course project Task 1** about Library Borrowing System.
 - Name: WONG Yan-ho, Michael
 - Student ID: 14194311
 
