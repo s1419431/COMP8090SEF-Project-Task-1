@@ -14,6 +14,7 @@ def bootstrap_sample_data(service: LibraryService):
     service.add_book("B002", "TEST2", "Billy", 2)
     service.add_member("M001", "Charlie", 3)
     service.add_member("M002", "David", 2)
+    service.add_member("M003", "Ethan", 4)
 
 
 def main():
